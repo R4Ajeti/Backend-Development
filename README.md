@@ -32,29 +32,29 @@ Free installation for static client-side web page, free/paid template or configu
 
 - [Python3](https://www.python.org/downloads/) - IRD 2008 - Interpreter language
 - [Django](https://www.djangoproject.com/download/) - IRD 2005 - The model–template–views architectural pattern web framework  or!
--   - [Flask](https://flask.palletsprojects.com/en/2.0.x/installation/) - IRD 2010 -  Small and easy-to-extend core web framework
--   - [FastAPI](https://fastapi.tiangolo.com/) -  IRD 2018 - Modern, fast/high execute performance, web framework
--  - [custom](#) - Any other similar choice as web framework
-
--  [Swagger](https://data.nav.no/digdir-api/docs) - IRD 2011 - OpenAPI/Swagger-generated API Reference Documentation  or!
--  - [Redoc](https://github.com/Redocly/redoc) - IRD 2020 - Reinvented OpenAPI/Swagger-generated API Reference Documentation
--  - [custom](#) - Any other similar choice as generated API reference documentation, based on web framework chosen
+   - [Flask](https://flask.palletsprojects.com/en/2.0.x/installation/) - IRD 2010 -  Small and easy-to-extend core web framework
+   - [FastAPI](https://fastapi.tiangolo.com/) -  IRD 2018 - Modern, fast/high execute performance, web framework
+   - [custom](#) - Any other similar choice as web framework
+ 
+- [Swagger](https://data.nav.no/digdir-api/docs) - IRD 2011 - OpenAPI/Swagger-generated API Reference Documentation  or!
+   - [Redoc](https://github.com/Redocly/redoc) - IRD 2020 - Reinvented OpenAPI/Swagger-generated API Reference Documentation
+   - [custom](#) - Any other similar choice as generated API reference documentation, based on web framework chosen
 
 -  [FireO](https://octabyte.io/FireO/quick-start/) - IRD 2019 - A modern and simplest convenient ORM package in Python  or!
--  - [FirestoreORM](https://pypi.org/project/firestore-orm/) - IRD 2019 - A module that adds support for firestore Object Relational Mapping to your application
--  - [FirebaseORM](https://pypi.org/project/firebase-orm/) - IRD 2018 - Django like models for NoSQL database Firestore
--  - [custom](#) - Any other similar choice as non-sql db orm, based on no-sql type db chosen
+   - [FirestoreORM](https://pypi.org/project/firestore-orm/) - IRD 2019 - A module that adds support for firestore Object Relational Mapping to your application
+   - [FirebaseORM](https://pypi.org/project/firebase-orm/) - IRD 2018 - Django like models for NoSQL database Firestore
+   - [custom](#) - Any other similar choice as non-sql db orm, based on no-sql type db chosen
 - [FireStore](https://firebase.google.com/docs/firestore) - IRD 2019 - Cloud-hosted NoSQL document database that lets you easily store, sync, and query data for your mobile and web apps - at global scale  or!
--  - [FireBaseRealtimeDB](https://firebase.google.com/docs/database) - IRD 2012 - Cloud-hosted NoSQL database that lets you store and sync data between your users in realtime.
--  - [DynamoDB](https://aws.amazon.com/dynamodb/) - IRD 2019 - Cloud-hosted fast and flexible NoSQL key–value pair database service for any scale
--  - [custom](#) - Any other similar choice as nonsql cloud-hosted or server-hosted db
+   - [FireBaseRealtimeDB](https://firebase.google.com/docs/database) - IRD 2012 - Cloud-hosted NoSQL database that lets you store and sync data between your users in realtime.
+   - [DynamoDB](https://aws.amazon.com/dynamodb/) - IRD 2019 - Cloud-hosted fast and flexible NoSQL key–value pair database service for any scale
+   - [custom](#) - Any other similar choice as nonsql cloud-hosted or server-hosted db
 
 - [GitHub](https://github.com/) - IRD 2008 - Cloud-distributed version control and source code management functionality  or!
--  - [BitBucket](https://bitbucket.org/product) - IRD 2012 - Git-based source code repository hosting
--  - [custom](#) - Any other similar choice as cloud-distributed version control
+   - [BitBucket](https://bitbucket.org/product) - IRD 2012 - Git-based source code repository hosting
+   - [custom](#) - Any other similar choice as cloud-distributed version control
 
 - [Shell/Bash](https://en.wikipedia.org/wiki/Unix_shell) - IRD 1989 - A computer program designed to be run by the Unix shell, a command-line interpreter  or!
--  - [custom](#) - Any other similar choice as a script helper between docker container and kernel or os img (like cloud shell in GCP AWS or AZURE)
+   - [custom](#) - Any other similar choice as a script helper between docker container and kernel or os img (like cloud shell in GCP AWS or AZURE)
 -  [Pytest](https://pypi.org/project/pytest) - IRD 2010 - Framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries
 -  [Selenium](https://pypi.org/project/selenium/) - IRD 2008 - Run web automation tests with ease. ... to the front end, they need to run appropriate cross browser tests
 -  [Docker](https://docs.docker.com/engine/reference/commandline/config/) - IRD 2013 - A set of platform as a service products that use OS-level virtualization to deliver software in packages called containers
