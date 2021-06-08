@@ -4,7 +4,8 @@
 > All in One pack from development to docker image! \
 Modern API constructor that helps developers to interact with back-end services \
 Modern database: Super fast response (on query search time computation O(1)), high performance (with horizontal scaling) and reliable source (with triple validation processes Client + API + Server) \
-Unit testing with at least 75% of coverage, furthermore end-to-end testing 100% of it's coverage
+Unit testing with at least 75% of coverage, furthermore end-to-end testing 100% of it's coverage \
+Simple client-side response (Front-END)
 
 ![](images/app_screenshot.png)
 ![](images/app_screenshot_2.png)
