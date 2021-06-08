@@ -22,8 +22,8 @@ Free installation for static client-side web page, free/paid template or configu
 -   - [FastAPI](https://fastapi.tiangolo.com/) -  IRD 2018 - Modern, fast/high execute performance, web framework
 -  - [custom](#) - Any other similar choice as web framework
 
--  [Swagger](https://data.nav.no/digdir-api/docs) - OpenAPI/Swagger-generated API Reference Documentation  or!
--  - [Redoc](https://github.com/Redocly/redoc) - Reinvented OpenAPI/Swagger-generated API Reference Documentation
+-  [Swagger](https://data.nav.no/digdir-api/docs) - IRD 2011 - OpenAPI/Swagger-generated API Reference Documentation  or!
+-  - [Redoc](https://github.com/Redocly/redoc) - IRD 2020 - Reinvented OpenAPI/Swagger-generated API Reference Documentation
 -  - [custom](#) - Any other similar choice as generated API reference documentation, based on web framework chosen
 
 -  [FireO](https://octabyte.io/FireO/quick-start/) - IRD 2019 - A modern and simplest convenient ORM package in Python  or!
@@ -39,7 +39,7 @@ Free installation for static client-side web page, free/paid template or configu
 -  - [BitBucket](https://bitbucket.org/product) - IRD 2012 - Git-based source code repository hosting
 -  - [custom](#) - Any other similar choice as cloud-distributed version control
 
-- [Shell/Bash](https://en.wikipedia.org/wiki/Unix_shell) - A computer program designed to be run by the Unix shell, a command-line interpreter  or!
+- [Shell/Bash](https://en.wikipedia.org/wiki/Unix_shell) - IRD 1989 - A computer program designed to be run by the Unix shell, a command-line interpreter  or!
 -  - [custom](#) - Any other similar choice as a script helper between docker container and kernel or os img (like cloud shell in GCP AWS or AZURE)
 -  [Pytest](https://pypi.org/project/pytest) - IRD 2010 - Framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries
 -  [Selenium](https://pypi.org/project/selenium/) - IRD 2008 - Run web automation tests with ease. ... to the front end, they need to run appropriate cross browser tests
