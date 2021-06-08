@@ -7,8 +7,21 @@ Modern database: Super fast response (on query search time computation O(1)), hi
 Unit testing with at least 75% of coverage, furthermore end-to-end testing 100% of it's coverage \
 Simple client-side response (Front-END)
 
-![](images/app_screenshot.png)
-![](images/app_screenshot_2.png)
+#### Generated API Reference Documentation App Screenshots
+
+<table>
+  <tr>
+    <td align="center">Django Openapi Swagger UI</td>
+     <td align="center">Fastapi Openapi Swagger UI</td>
+  </tr>
+  <tr>
+    <td><img src="images/app_screenshot.png" width="100%" title="Django Swagger UI"></td>
+    <td><img src="images/app_screenshot_2.png" width="100%" title="Fastapi Openapi Swagger UI"></td>
+  </tr>
+ </table>
+
+
+
 
 > All tool essential, primary choice built with it's initial release date are greater than year 2018 except git, python3 and django \
 Based on [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem) an database that chooses Partition Tolerance first then Availability or Consistency secound (second depends on your choice) \
