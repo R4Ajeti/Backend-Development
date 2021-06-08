@@ -1,16 +1,16 @@
 # Backend Development
 
 ### Descriptions
-> All in One pack from development to docker image!
-Modern API constructor that helps developers to interact with back-end services
-Modern database: Super fast response (on query search time computation O(1)), high performance (with horizontal scaling) and reliable source (with triple validation processes Client + API + Server)
+> All in One pack from development to docker image! \
+Modern API constructor that helps developers to interact with back-end services \
+Modern database: Super fast response (on query search time computation O(1)), high performance (with horizontal scaling) and reliable source (with triple validation processes Client + API + Server) \
 Unit testing with at least 75% of coverage, furthermore end-to-end testing 100% of it's coverage
 
 ![](images/app_screenshot.png)
 ![](images/app_screenshot_2.png)
 
-> All tool essential, primary choice built with it's initial release date are greater than year 2018 except git, python3 and django
-Based on [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem) an database that chooses Partition Tolerance first then Availability or Consistency secound (second depends on your choice)
+> All tool essential, primary choice built with it's initial release date are greater than year 2018 except git, python3 and django \
+Based on [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem) an database that chooses Partition Tolerance first then Availability or Consistency secound (second depends on your choice) \
 Free installation for static client-side web page, free/paid template or configuration of well-documented client-side web app
 
 
@@ -22,7 +22,7 @@ Free installation for static client-side web page, free/paid template or configu
 -   - [FastAPI](https://fastapi.tiangolo.com/) -  IRD 2018 - Modern, fast/high execute performance, web framework
 -  - [custom](#) - Any other similar choice as web framework
 
--  [Swagger](https://data.nav.no/digdir-api/docs) - OpenAPI/Swagger-generated API Reference Documentation
+-  [Swagger](https://data.nav.no/digdir-api/docs) - OpenAPI/Swagger-generated API Reference Documentation  or!
 -  - [Redoc](https://github.com/Redocly/redoc) - Reinvented OpenAPI/Swagger-generated API Reference Documentation
 -  - [custom](#) - Any other similar choice as generated API reference documentation, based on web framework chosen
 
@@ -30,16 +30,16 @@ Free installation for static client-side web page, free/paid template or configu
 -  - [FirestoreORM](https://pypi.org/project/firestore-orm/) - IRD 2019 - A module that adds support for firestore Object Relational Mapping to your application
 -  - [FirebaseORM](https://pypi.org/project/firebase-orm/) - IRD 2018 - Django like models for NoSQL database Firestore
 -  - [custom](#) - Any other similar choice as non-sql db orm, based on no-sql type db chosen
-- [FireStore](https://firebase.google.com/docs/firestore) - IRD 2019 - Cloud-hosted NoSQL document database that lets you easily store, sync, and query data for your mobile and web apps - at global scale
+- [FireStore](https://firebase.google.com/docs/firestore) - IRD 2019 - Cloud-hosted NoSQL document database that lets you easily store, sync, and query data for your mobile and web apps - at global scale  or!
 -  - [FireBaseRealtimeDB](https://firebase.google.com/docs/database) - IRD 2012 - Cloud-hosted NoSQL database that lets you store and sync data between your users in realtime.
 -  - [DynamoDB](https://aws.amazon.com/dynamodb/) - IRD 2019 - Cloud-hosted fast and flexible NoSQL key–value pair database service for any scale
 -  - [custom](#) - Any other similar choice as nonsql cloud-hosted or server-hosted db
 
-- [GitHub](https://github.com/) - IRD 2008 - Cloud-distributed version control and source code management functionality
+- [GitHub](https://github.com/) - IRD 2008 - Cloud-distributed version control and source code management functionality  or!
 -  - [BitBucket](https://bitbucket.org/product) - IRD 2012 - Git-based source code repository hosting
 -  - [custom](#) - Any other similar choice as cloud-distributed version control
 
-- [Shell/Bash](https://en.wikipedia.org/wiki/Unix_shell) - A computer program designed to be run by the Unix shell, a command-line interpreter
+- [Shell/Bash](https://en.wikipedia.org/wiki/Unix_shell) - A computer program designed to be run by the Unix shell, a command-line interpreter  or!
 -  - [custom](#) - Any other similar choice as a script helper between docker container and kernel or os img (like cloud shell in GCP AWS or AZURE)
 -  [Pytest](https://pypi.org/project/pytest) - IRD 2010 - Framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries
 -  [Selenium](https://pypi.org/project/selenium/) - IRD 2008 - Run web automation tests with ease. ... to the front end, they need to run appropriate cross browser tests
