@@ -81,7 +81,7 @@ ON WINDOW MACHINE:
 
 - Github: [@r4ajeti](https://github.com/r4ajeti)
 - Twitter: [@r4ajeti](https://twitter.com/r4ajeti)
-- Linkedin: [linkedin](https://linkedin.com/r4ajeti)
+- Linkedin: [linkedin](https://www.linkedin.com/in/r4ajeti/)
 - Email: [Gmail](mailto:r4ajeti@gmail.com))
 
 ###  🤝 Contributing
