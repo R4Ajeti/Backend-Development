@@ -1,7 +1,7 @@
 # Backend Development
 
 ### Descriptions
-> All in One pack from development to docker image! \
+> All in One pack from development to docker images! \
 Modern API constructor that helps developers to interact with back-end services \
 Modern database: Super fast response (on query search time computation O(1)), high performance (with horizontal scaling) and reliable source (with triple validation processes Client + API + Server) \
 Unit testing with at least 75% of coverage, furthermore end-to-end testing 100% of it's coverage \
@@ -11,7 +11,7 @@ Simple client-side response (Front-END)
 
 <table>
   <tr>
-    <td align="center">Django Openapi Swagger UI</td>
+    <td align="center">Django Swagger UI</td>
      <td align="center">Fastapi Openapi Swagger UI</td>
   </tr>
   <tr>
@@ -24,7 +24,7 @@ Simple client-side response (Front-END)
 
 
 > All tool essential, primary choice built with it's initial release date are greater than year 2018 except git, python3 and django \
-Based on [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem) an database that chooses Partition Tolerance first then Availability or Consistency secound (second depends on your choice) \
+Based on [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem) an database that chooses Partition Tolerance first then Availability or Consistency second (second depends on your choice) \
 Free installation for static client-side web page, free/paid template or configuration of well-documented client-side web app
 
 
